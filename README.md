@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kevincaz0
+- 👀 I’m interested in coding, and designing. 
+- 🌱 I’m currently learning HTML, CSS, and Python. 
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me kcaz8210@tahes.org or kevinc1133@nycstudents.net
